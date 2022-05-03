@@ -1,9 +1,7 @@
 ### Hola / Hi 👋
-#### Bienvenidos a mi perfil de Github
-De momento está en construcción... verás más actividad proximamente
+#### Welcome to my GitHub profile
+This profile is a work in progress... I hope I find the time to update it.
 
-- 🔭 Estoy trabajando actualmente en mi perfil de Github y la escuela
-- 🌱 Actualmente estoy aprendiendo React, TypeScript y más Javascript
-- 👯 Estoy esperando conseguir un buen lugar donde hacer mis prácticas profesionales
-- 💬 Pregúntame sobre... Pokémon, me encanta
-- ⚡ Es mi primera vez editando mi perfil de Github... debí hacerlo mucho antes :c
+- 🔭 Actually working on personal projects while I am a Software Developer in a big company based in México
+- 🌱 Learning React, TypeScript and Javascript
+- 💬 Talk to me about Pokemon, I love it
